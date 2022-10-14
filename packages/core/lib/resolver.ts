@@ -1,4 +1,4 @@
-const baseURL = "https://api.astroicon.dev/v1/";
+const baseURL = "https://astrodev-api.vercel.app/api/";
 const requests = new Map();
 const fetchCache = new Map();
 
